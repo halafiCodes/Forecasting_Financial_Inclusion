@@ -1,7 +1,7 @@
 # Data Enrichment Log (Task 1)
 
 Date: 2026-02-01
-Collected by: weldesilassie
+Collected by: weldesilassie Hailu
 
 ## Summary
 - Added new ACCESS indicators from World Bank WDI to strengthen forecasting inputs tied to digital access and financial service reach.
